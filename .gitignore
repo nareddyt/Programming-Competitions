@@ -1,3 +1,11 @@
+### Intellij ###
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm
+
+*.iml
+.idea/
+
+## Directory-based project format:
+bin/
 *.class
 
 # Mobile Tools for Java (J2ME)
